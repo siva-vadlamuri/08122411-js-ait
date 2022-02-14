@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "name": "Ramesh",
+        "email": "ramesh@gmail.com",
+        "phone": 9848022338,
+        "hobbies": ["cricket", "football", "reading", "coding"],
+        "is_married": false,
+        "address":{
+            "street": "abc", 
+            "city": "bangalore", 
+            "state": "karnataka", 
+            "pincode": 560085
+        }
+    },
+    {
+        "id": "1",
+        "name": "Ramesh",
+        "email": "ramesh@gmail.com",
+        "phone": 9848022338,
+        "hobbies": ["cricket", "football", "reading", "coding"],
+        "is_married": false,
+        "address":{
+            "street": "abc", 
+            "city": "bangalore", 
+            "state": "karnataka", 
+            "pincode": 560085
+        }
+    }
+]
